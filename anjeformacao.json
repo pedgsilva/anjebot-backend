@@ -248,36 +248,6 @@
   },
   "cursos_lista": [
     {
-      "titulo": "Como elaborar um Plano de Negócios |  Formação Assíncrona",
-      "preco": "€150,00",
-      "data": "25-05-2026",
-      "url": "https://anjeformacao.pt/curso/como-elaborar-um-plano-de-negocios-formacao-assincrona/"
-    },
-    {
-      "titulo": "Programa Executivo Vendedor de Alta Performance | Online",
-      "preco": "€280,00",
-      "data": "25-05-2026",
-      "url": "https://anjeformacao.pt/curso/programa-executivo-vendedor-de-alta-performance/"
-    },
-    {
-      "titulo": "RGPD para Gestores e Empreendedores |  Formação Assíncrona",
-      "preco": "€180,00",
-      "data": "26-05-2026",
-      "url": "https://anjeformacao.pt/curso/rgpd-para-gestores-e-empreendedores-formacao-assincrona/"
-    },
-    {
-      "titulo": "Direito das Sociedades – Constituição de Empresas | Formação Assíncrona",
-      "preco": "€175,00",
-      "data": "26-05-2026",
-      "url": "https://anjeformacao.pt/curso/direito-das-sociedades-constituicao-de-empresas-formacao-assincrona/"
-    },
-    {
-      "titulo": "Gestão de correio eletrónico e pesquisa de informação na web &#8211; UFCD 0693 | Norte &#8211; Pessoas 2030",
-      "preco": "Gratuito",
-      "data": "27-05-2026",
-      "url": "https://anjeformacao.pt/curso/gestao-de-correio-eletronico-e-pesquisa-de-informacao-na-web-ufcd-0693-norte-pessoas-2030/"
-    },
-    {
       "titulo": "Inteligência Emocional para a Motivação e Tomada de Decisão | Online",
       "preco": "€480,00",
       "data": "28-05-2026",
@@ -290,10 +260,22 @@
       "url": "https://anjeformacao.pt/curso/executar-operacoes-de-controlo-de-tesouraria-uc-02777-norte-pessoas-2030/"
     },
     {
+      "titulo": "Como elaborar um Plano de Negócios |  Formação Assíncrona",
+      "preco": "€150,00",
+      "data": "01-06-2026",
+      "url": "https://anjeformacao.pt/curso/como-elaborar-um-plano-de-negocios-formacao-assincrona/"
+    },
+    {
       "titulo": "Implementar práticas de gestão do tempo e organização do trabalho &#8211; UC00458 | Norte &#8211; Pessoas 2030",
       "preco": "Gratuito",
       "data": "01-06-2026",
       "url": "https://anjeformacao.pt/curso/implementar-praticas-de-gestao-do-tempo-e-organizacao-do-trabalho-uc00458-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "RGPD para Gestores e Empreendedores |  Formação Assíncrona",
+      "preco": "€180,00",
+      "data": "02-06-2026",
+      "url": "https://anjeformacao.pt/curso/rgpd-para-gestores-e-empreendedores-formacao-assincrona/"
     },
     {
       "titulo": "Direito Laboral para Gestores e Empreendedores | Formação Assíncrona",
@@ -306,6 +288,12 @@
       "preco": "€150,00",
       "data": "02-06-2026",
       "url": "https://anjeformacao.pt/curso/comunicar-com-impacto-online/"
+    },
+    {
+      "titulo": "Direito das Sociedades – Constituição de Empresas | Formação Assíncrona",
+      "preco": "€175,00",
+      "data": "09-06-2026",
+      "url": "https://anjeformacao.pt/curso/direito-das-sociedades-constituicao-de-empresas-formacao-assincrona/"
     },
     {
       "titulo": "Inteligência Artificial Aplicada &#8211; Claude AI | Online",
@@ -441,7 +429,7 @@
     },
     {
       "titulo": "Certificação International em Coaching Profissional | Norte e Online",
-      "preco": "€3870,00",
+      "preco": "Gratuito",
       "data": "Sob consulta",
       "url": "https://anjeformacao.pt/curso/certificacao-international-em-coaching-profissional-norte-e-online/"
     },
@@ -584,6 +572,12 @@
       "url": "https://anjeformacao.pt/curso/lideranca-e-ferramentas-para-a-transformacao-digital-algarve/"
     },
     {
+      "titulo": "Programa Executivo Vendedor de Alta Performance | Online",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/programa-executivo-vendedor-de-alta-performance/"
+    },
+    {
       "titulo": "Língua inglesa &#8211; e-marketing – UFCD 0447 | Alentejo &#8211; PESSOAS 2030",
       "preco": "Gratuito",
       "data": "Sob consulta",
@@ -672,6 +666,12 @@
       "preco": "Gratuito",
       "data": "Sob consulta",
       "url": "https://anjeformacao.pt/curso/inteligencia-artificial-aplicada-aos-negocios-extra-cnq-algarve/"
+    },
+    {
+      "titulo": "Gestão de correio eletrónico e pesquisa de informação na web &#8211; UFCD 0693 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gestao-de-correio-eletronico-e-pesquisa-de-informacao-na-web-ufcd-0693-norte-pessoas-2030/"
     },
     {
       "titulo": "Criação de páginas para a web em hipertexto &#8211; UFCD 0792 | Norte &#8211; Pessoas 2030",
@@ -830,5 +830,5 @@
       "url": "https://anjeformacao.pt/curso/efa-pro-de-tecnico-a-de-turismo-ambiental-e-rural-norte/"
     }
   ],
-  "ultima_atualizacao": "2026-05-23 16:42:42"
+  "ultima_atualizacao": "2026-05-28 02:12:48"
 }
