@@ -248,18 +248,6 @@
   },
   "cursos_lista": [
     {
-      "titulo": "Inteligência Emocional para a Motivação e Tomada de Decisão | Online",
-      "preco": "€480,00",
-      "data": "28-05-2026",
-      "url": "https://anjeformacao.pt/curso/inteligencia-emocional-para-a-motivacao-e-tomada-de-decisao-online/"
-    },
-    {
-      "titulo": "Executar operações de controlo de tesouraria &#8211; UC 02777 | Norte &#8211; Pessoas 2030",
-      "preco": "Gratuito",
-      "data": "28-05-2026",
-      "url": "https://anjeformacao.pt/curso/executar-operacoes-de-controlo-de-tesouraria-uc-02777-norte-pessoas-2030/"
-    },
-    {
       "titulo": "Como elaborar um Plano de Negócios |  Formação Assíncrona",
       "preco": "€150,00",
       "data": "01-06-2026",
@@ -428,7 +416,7 @@
       "url": "https://anjeformacao.pt/curso/programa-executivo-em-vendas/"
     },
     {
-      "titulo": "Certificação International em Coaching Profissional | Norte e Online",
+      "titulo": "Certificação Internacional em Coaching Profissional | Norte e Online",
       "preco": "Gratuito",
       "data": "Sob consulta",
       "url": "https://anjeformacao.pt/curso/certificacao-international-em-coaching-profissional-norte-e-online/"
@@ -530,6 +518,12 @@
       "url": "https://anjeformacao.pt/curso/gestao-de-tempo-e-gestao-de-e-mail-norte/"
     },
     {
+      "titulo": "Inteligência Emocional para a Motivação e Tomada de Decisão | Online",
+      "preco": "€480,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/inteligencia-emocional-para-a-motivacao-e-tomada-de-decisao-online/"
+    },
+    {
       "titulo": "Programa Executivo &#8211; Sensibilização para as boas práticas ESG | Online",
       "preco": "€280,00",
       "data": "Sob consulta",
@@ -573,7 +567,7 @@
     },
     {
       "titulo": "Programa Executivo Vendedor de Alta Performance | Online",
-      "preco": "Gratuito",
+      "preco": "€280,00",
       "data": "Sob consulta",
       "url": "https://anjeformacao.pt/curso/programa-executivo-vendedor-de-alta-performance/"
     },
@@ -800,6 +794,12 @@
       "url": "https://anjeformacao.pt/curso/quero-criar-um-negocio-e-agora-do-plano-a-acao-com-o-poder-da-ia-online/"
     },
     {
+      "titulo": "Executar operações de controlo de tesouraria &#8211; UC 02777 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/executar-operacoes-de-controlo-de-tesouraria-uc-02777-norte-pessoas-2030/"
+    },
+    {
       "titulo": "Aplicar storytelling na comunicação &#8211; UC00077 | Norte &#8211; Pessoas 2030",
       "preco": "Gratuito",
       "data": "Sob consulta",
@@ -830,5 +830,5 @@
       "url": "https://anjeformacao.pt/curso/efa-pro-de-tecnico-a-de-turismo-ambiental-e-rural-norte/"
     }
   ],
-  "ultima_atualizacao": "2026-05-28 02:12:48"
+  "ultima_atualizacao": "2026-05-29 02:00:35"
 }
