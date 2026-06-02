@@ -248,18 +248,6 @@
   },
   "cursos_lista": [
     {
-      "titulo": "Como elaborar um Plano de Negócios |  Formação Assíncrona",
-      "preco": "€150,00",
-      "data": "01-06-2026",
-      "url": "https://anjeformacao.pt/curso/como-elaborar-um-plano-de-negocios-formacao-assincrona/"
-    },
-    {
-      "titulo": "Implementar práticas de gestão do tempo e organização do trabalho &#8211; UC00458 | Norte &#8211; Pessoas 2030",
-      "preco": "Gratuito",
-      "data": "01-06-2026",
-      "url": "https://anjeformacao.pt/curso/implementar-praticas-de-gestao-do-tempo-e-organizacao-do-trabalho-uc00458-norte-pessoas-2030/"
-    },
-    {
       "titulo": "RGPD para Gestores e Empreendedores |  Formação Assíncrona",
       "preco": "€180,00",
       "data": "02-06-2026",
@@ -276,6 +264,12 @@
       "preco": "€150,00",
       "data": "02-06-2026",
       "url": "https://anjeformacao.pt/curso/comunicar-com-impacto-online/"
+    },
+    {
+      "titulo": "Como elaborar um Plano de Negócios |  Formação Assíncrona",
+      "preco": "€150,00",
+      "data": "08-06-2026",
+      "url": "https://anjeformacao.pt/curso/como-elaborar-um-plano-de-negocios-formacao-assincrona/"
     },
     {
       "titulo": "Direito das Sociedades – Constituição de Empresas | Formação Assíncrona",
@@ -828,7 +822,13 @@
       "preco": "Gratuito",
       "data": "Sob consulta",
       "url": "https://anjeformacao.pt/curso/efa-pro-de-tecnico-a-de-turismo-ambiental-e-rural-norte/"
+    },
+    {
+      "titulo": "Implementar práticas de gestão do tempo e organização do trabalho &#8211; UC00458 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/implementar-praticas-de-gestao-do-tempo-e-organizacao-do-trabalho-uc00458-norte-pessoas-2030/"
     }
   ],
-  "ultima_atualizacao": "2026-06-01 02:00:56"
+  "ultima_atualizacao": "2026-06-02 02:01:01"
 }
